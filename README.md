@@ -28,9 +28,6 @@ I am a **Management Information Systems (MIS)** student with a deep passion for 
 * Managed and coordinated a team to architect and model a complex relational database system mimicking the MoMo digital wallet.
 * Constructed ER diagrams, performed data normalization, and executed advanced SQL queries on custom datasets.
 
-####  **"Starlight 2025" Student Choice Award** | *Media & Branding Manager*
-* Spearheaded content curation and visual branding across social media platforms, boosting digital engagement for the university's flagship student recognition event.
-
 
 ##  Tech Stack
 
