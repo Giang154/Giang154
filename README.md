@@ -2,8 +2,8 @@
 ### Data Science Enthusiast | Management Information Systems Student
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/huongianq/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto: nthu6410@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
@@ -21,22 +21,18 @@ I am a **Management Information Systems (MIS)** student with a deep passion for 
 * **Institution:** Vietnam National University - International School (VNU-IS)
 * **Major:** Management Information Systems (MIS)
 * **Timeline:** 2024 - 2028
-* **Key Research & Academic Projects:**
-  * Investigating and optimizing **Tokens-to-Token Vision Transformer (T2T-ViT)** architectures for enhanced local feature capture in image analysis.
-  * Applying the **K-Means clustering** algorithm to analyze and segment color palettes in historical masterwork paintings.
-
 ---
 
 ##  Experience & Activities
-#### 🔹 **Academic Department - Student Union** | *Core Member / Coordinator*
+####  **Academic Department - Student Union** | *Core Member / Coordinator*
 * Formulated comprehensive communication strategies and structured interview rubrics for new member recruitment.
 * Organized academic events, workshops, and seminars to support students in scientific research and soft skills development.
 
-#### 🔹 **Database Design Project** | *Project Lead (Academic)*
+####  **Database Design Project** | *Project Lead (Academic)*
 * Managed and coordinated a team to architect and model a complex relational database system mimicking the MoMo digital wallet.
 * Constructed ER diagrams, performed data normalization, and executed advanced SQL queries on custom datasets.
 
-#### 🔹 **"Starlight 2025" Student Choice Award** | *Media & Branding Manager*
+####  **"Starlight 2025" Student Choice Award** | *Media & Branding Manager*
 * Spearheaded content curation and visual branding across social media platforms, boosting digital engagement for the university's flagship student recognition event.
 
 ---
@@ -61,11 +57,5 @@ I am a **Management Information Systems (MIS)** student with a deep passion for 
 
 ---
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&hide_border=true" alt="Giang's GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radial&hide_border=true" alt="Giang's GitHub Streak" width="48%">
-</p>
 
 ⚡ *Thank you for visiting my profile! Feel free to connect if you'd like to collaborate or just talk tech!*
