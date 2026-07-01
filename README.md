@@ -1,12 +1,11 @@
 # Hi there, I'm Giang Nguyen!
-### Data Science Enthusiast | Management Information Systems Student
+### Data Science Enthusiast | Management Information Systems 
 
 <p align="left">
   <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/huongianq/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto: nthu6410@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
----
 
 ## About Me
 I am a **Management Information Systems (MIS)** student with a deep passion for Data Science, Computer Vision, and smart application development. I love solving real-world business problems by bridging the gap between data-driven insights and cutting-edge technology.
@@ -14,14 +13,11 @@ I am a **Management Information Systems (MIS)** student with a deep passion for 
 -  **Based in:** Hanoi, Vietnam
 -  **Goal:** To become an AI/Data Engineer and actively contribute to impactful open-source projects.
 -  **Interests:** Exploring deep learning architectures (especially Vision Transformers) and designing intuitive web UI/UX.
-
----
-
+ 
 ##  Education
 * **Institution:** Vietnam National University - International School (VNU-IS)
 * **Major:** Management Information Systems (MIS)
 * **Timeline:** 2024 - 2028
----
 
 ##  Experience & Activities
 ####  **Academic Department - Student Union** | *Core Member / Coordinator*
@@ -35,7 +31,6 @@ I am a **Management Information Systems (MIS)** student with a deep passion for 
 ####  **"Starlight 2025" Student Choice Award** | *Media & Branding Manager*
 * Spearheaded content curation and visual branding across social media platforms, boosting digital engagement for the university's flagship student recognition event.
 
----
 
 ##  Tech Stack
 
